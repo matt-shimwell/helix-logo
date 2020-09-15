@@ -1,2 +1,0 @@
-# ori-logo
-Ori Logo
